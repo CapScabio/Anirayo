@@ -91,6 +91,23 @@ Este proyecto responde al desafío **Lightning Payments Basics** de la hackathon
 
 ---
 
+## 🚀 Roadmap hacia la Adopción (8 Meses)
+
+**AniRayo** está diseñado para evolucionar mes a mes siguiendo el programa oficial de las **Lightning Hackathons 2026**, para llegar a Octubre con un producto PWA _production-ready_.
+
+| Mes | Temática Hackathon | Hito de AniRayo ⚡ |
+| :---: | :--- | :--- |
+| **Marzo**  | `FOUNDATIONS` | **MVP 1-Toque**: Cobro de LNURL via Web NFC hacia un Lighning Address y conectividad básica en JS/Vite. |
+| **Abril**  | `IDENTITY` | **Onboarding Nostr**: Login de comerciantes mediante su `npub` para delegar automáticamente su perfil y configuración de pago en la terminal. |
+| **Mayo**   | `ZAPS` | **Zap Receipts**: Los cobros se transforman en Zaps sociales y públicos, creando un historial inmutable y de agradecimiento al comprador. |
+| **Junio**  | `COMMERCE` | **Smart POS**: Menú básico de productos (precio harcodeado ej: "Café") e integración opcional de propinas antes del tap. |
+| **Julio**  | `MEDIA` | **Blossom CDN**: Alojamiento descentralizado de los recibos de las tiendas, banners de perfil e imágenes del menú para evitar servidores estáticos. |
+| **Agosto** | `AI AGENTS`| **AI Accountant**: Agente autónomo nocturno que envía al NIP-04 (DM) del comerciante un resumen y sugerencia de precios según inflación y ventas por LN. |
+| **Sept.**  | `INFRASTRUCTURE` | **LSP Integrado**: Creación de canales Lightning "just-in-time" en el fondo si el comercio que recibe el pago NFC carece de Inbound Liquidity. |
+| **Oct.**   | `INTEGRATION` | **Launch Real**: PWA full-stack instalable desde el navegador. Completa, con métricas de caja y soporte delegado (multi-empleado). |
+
+---
+
 <div align="center">
   <br />
   <p><i>Hecho con ⚡ por CapScabio — ¡Salud y Libertad compañeros! 🇦🇷</i></p>
